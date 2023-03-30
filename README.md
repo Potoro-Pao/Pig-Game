@@ -6,3 +6,6 @@ Still trying to find a way to pack the file into onefile including pics
 
 
 Rule of this game is simple:  Both players roll the dice. The points will accumulate till they roll one. If one player rolled one, they lose the accumulated points and the other player take the turn to roll dice. If player press the hold, the player get the accumulated points and it's another player's turn. 
+
+
+I include a zip in the master branch as usual, but this time the exe can only be executed/played with pics in the same folder. (still find way to fix it... 
